@@ -1,0 +1,15 @@
+---
+title: "Kartik T Padmanabhan"
+output: html_document
+---
+3330 Alder Ave Fremont CA 94536  
+kartik.tp@gmail.com • https://www.linkedin.com/in/kartikpadmanabhan  • https://github.com/KartikPadmanabhan
+(630)-715-2078 (c) 
+
+
+## Objective
+
+Database performance and testing engineer with an insatiable intellectual curiosity, and the ability to mine hidden gems located within large sets of structured, semi-structured and unstructured data. Able to leverage a heavy dose of mathematics and applied statistics with visualization and a healthy sense of exploration.
+
+
+
